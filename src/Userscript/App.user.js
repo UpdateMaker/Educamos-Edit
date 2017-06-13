@@ -2,7 +2,7 @@
 // @name       Northlands Educamos - Desplegables Completos.
 // @include    https://northlandsol-ar.educamos.com/Evaluacion/Informes*
 // @include    https://northlandsnd-ar.educamos.com/Evaluacion/Informes*
-// @downloadURL     https://github.com/UpdateMaker/Educamos-Edit/blob/master/App.js
+// @downloadURL     https://github.com/UpdateMaker/Educamos-Edit/raw/master/src/Userscript/App.user.js
 // @version     1.1
 // @author Juan Ignacio Veron Desimoni
 // @description Un boton permite imprimir en varios formatos.

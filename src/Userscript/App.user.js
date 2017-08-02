@@ -3,7 +3,7 @@
 // @include    https://northlandsol-ar.educamos.com/Evaluacion/Informes*
 // @include    https://northlandsnd-ar.educamos.com/Evaluacion/Informes*
 // @downloadURL     https://github.com/UpdateMaker/Educamos-Edit/raw/master/src/Userscript/App.user.js
-// @version     1.1
+// @version     1.2
 // @author Juan Ignacio Veron Desimoni
 // @description Un boton permite imprimir en varios formatos.
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
